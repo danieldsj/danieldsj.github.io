@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "My setup"
+date:   2018-03-08 
+categories: os linux 
+---
+A while back I had to replace my laptop, so I thought I'd share my experience.
+
+### The Hardware
+The last laptop I had was a Apple MacBook Pro, but I had to return the hardware when my previous employer reorganized and I had to return the hardware. I think that regardless of what I got, unless it was a high-end laptop that cost in the order of thousands of dollars I would be disappointed. Since I had just been laid off, I did not want to spend the thousands of dollars for an equivalent laptop.  After some shopping I came to realize that the biggest price jump attributed to the quality of the monitors.  Whenever I searched for laptops with a comparable resolution to Macbook Pro, the prices would easily be $1000 more expensive than the laptops with lower resolutions. This was despite having inferior CPU/memory/storage specifications.
+
+In the end I purchased a refurbished Dell Latitude E7240 for $385.00 from the staples Canada website. I was pleasantly surprised at specs and could not get a better resolution for that price range.  Also, the memory and the hard drive are all upgradable in the future.  Here are some specs:
+
+* Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz with 2 cores x 2 threads
+* 8 GB of RAM
+* 128 GB SSD
+
+The rest of the [specs][specs] can be found at Dell's website.
+
+### The Operating System
+
+Initially, I ran with the stock Microsoft Windows 10 image for a bit and noticed WHQL related events that indicated a machine check exception. After exporting the events, I found that they were happening at around 20 events per hour.  I kept an eye on it for a while until I got a blue screen.  Luckily the machine was still under warranty and the folks at [CNB][cnb] were able to replace my RAM.
+
+I am a big fan of Debian based systems, but since the machine was still under warranty, I didn't want to compromise the recovery partition or the Microsoft Windows Operating system unless I needed to do some warranty work done. I also did not want to open the laptop since it would void the warranty.  I did the following:
+
+1. Reclaim some free space from the windows hard drive by shrinking it.
+2. Inserting a newly purchased SD card.
+3. Installing the root file system on the reclaimed space from step 1.
+4. Installing the boot file system on the SD card from step 2 along with GRUB.
+5. Configuring my BIOS to boot off of the SD card.
+
+[cnb]: http://cnbcom.com
+[specs]: http://www.dell.com/support/manuals/ca/en/cabsdt1/latitude-e7240-ultrabook/late7240om-v3/specifications?guid=guid-247916a5-f1d3-44b2-82b7-f14374bb9a73&lang=en-us
+
