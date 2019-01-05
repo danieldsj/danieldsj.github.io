@@ -2,7 +2,6 @@
 layout: post
 title:  "My Computer Setup: Part One"
 date:   2018-03-08 
-categories: os linux 
 ---
 A while back I had to replace my laptop, so I thought I'd share my experience.
 

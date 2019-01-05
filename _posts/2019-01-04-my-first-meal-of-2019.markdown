@@ -2,7 +2,6 @@
 layout: post
 title:  "My first meal of 2019"
 date:   2019-01-04 
-categories: breakfast food "new year" 
 ---
 Happy new year! One of my goals for this year is to write a lot more. I was made aware of this challenge which is a list of topics to write
 about. I decided to take on the challenge, so here it goes.
