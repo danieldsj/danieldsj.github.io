@@ -11,7 +11,7 @@ My first meal of 2019 was as follows:
 * Two corn flour tortillas, toasted.
 * A mug of coffee with almond milk.
 
-This breakfast is by far one of my favorite breakfasts because of it's simplicity and practicality.
+This breakfast is by far one of my favorite breakfasts because of its simplicity and practicality.
 
 First, I start with the coffee. I make coffee one mug at a time with [a small pour over filter](https://www.amazon.ca/Harold-2661-Coffee-Filter-2-Cups/dp/B013S2HYHS/ref=sr_1_29?s=kitchen&ie=UTF8&qid=1546651796&sr=1-29&keywords=pour+over+coffee+dripper). I buy flavoured coffee that is ground at the supermarket, and stick to french vanilla or hazelnut. I fill my kettle and set it to boil. My kettle is glass so I can quickly tell if there is too much calcium build-up.  The kettle is also has a wide mouth so that I can reach in and clean it if necessary.  Kettles with neither of these features and likely to be gross on the inside and cannot be cleaned, so I highly recommend these features when buying a kettle. As it boils I move on to the frying pan. 
 
