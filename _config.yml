@@ -24,7 +24,8 @@ github_username:  danieldsj
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
+theme: primer
 plugins:
   - jekyll-feed
 
