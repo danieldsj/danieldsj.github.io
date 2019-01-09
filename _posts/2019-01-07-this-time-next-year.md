@@ -10,7 +10,7 @@ Have healthy relationships with all of my family members.
 Not be dependent on my phone.
 Run and operate a my own business.
 Have improved my knowledge of electronics and soldering.
-Have improves my knowledge of sewing.
+Have improved my knowledge of sewing.
 Listen more.
 Talk only when I have thought through what I need to say.
 Be focused.
