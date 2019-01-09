@@ -1,7 +1,7 @@
 ---
 type: post
 title: "One thing I love about myself"
-date: 2018-01-08
+date: 2019-01-08
 ---
 
 The one thing I love about myself is my ability to deconstruct a problem. I think one of the reasons I was very good at troubleshooting
